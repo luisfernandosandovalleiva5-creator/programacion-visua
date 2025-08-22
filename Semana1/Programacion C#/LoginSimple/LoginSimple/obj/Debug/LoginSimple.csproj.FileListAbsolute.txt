@@ -1,0 +1,20 @@
+D:\Programacion C#\LoginSimple\LoginSimple\bin\Debug\LoginSimple.exe.config
+D:\Programacion C#\LoginSimple\LoginSimple\bin\Debug\LoginSimple.exe
+D:\Programacion C#\LoginSimple\LoginSimple\bin\Debug\LoginSimple.pdb
+D:\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.csproj.AssemblyReference.cache
+D:\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.Form1.resources
+D:\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.Properties.Resources.resources
+D:\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.csproj.GenerateResource.cache
+D:\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.csproj.CoreCompileInputs.cache
+D:\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.exe
+D:\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.pdb
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\bin\Debug\LoginSimple.exe.config
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\bin\Debug\LoginSimple.exe
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\bin\Debug\LoginSimple.pdb
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.Form1.resources
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.Properties.Resources.resources
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.csproj.GenerateResource.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.exe
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\LoginSimple\LoginSimple\obj\Debug\LoginSimple.pdb

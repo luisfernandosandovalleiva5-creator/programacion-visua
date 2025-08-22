@@ -1,0 +1,32 @@
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.exe
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.deps.json
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.runtimeconfig.json
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.dll
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.pdb
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.Form1.resources
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.csproj.GenerateResource.cache
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.AssemblyInfoInputs.cache
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.AssemblyInfo.cs
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.csproj.CoreCompileInputs.cache
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.dll
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\refint\CalculadoraDeIMC.dll
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.pdb
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.genruntimeconfig.cache
+D:\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\ref\CalculadoraDeIMC.dll
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.exe
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.deps.json
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.runtimeconfig.json
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.dll
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\bin\Debug\net8.0-windows\CalculadoraDeIMC.pdb
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.Form1.resources
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.csproj.GenerateResource.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.AssemblyInfoInputs.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.AssemblyInfo.cs
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.dll
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\refint\CalculadoraDeIMC.dll
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.pdb
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\CalculadoraDeIMC.genruntimeconfig.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual\Semana1\Programacion C#\CalculadoraDeIMC\CalculadoraDeIMC\obj\Debug\net8.0-windows\ref\CalculadoraDeIMC.dll
