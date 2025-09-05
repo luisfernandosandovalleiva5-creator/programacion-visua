@@ -1,0 +1,10 @@
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\bin\Debug\GestordeTareas.exe.config
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\bin\Debug\GestordeTareas.exe
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\bin\Debug\GestordeTareas.pdb
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\obj\Debug\GestordeTareas.csproj.AssemblyReference.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\obj\Debug\GestordeTareas.cmbEstado.resources
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\obj\Debug\GestordeTareas.Properties.Resources.resources
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\obj\Debug\GestordeTareas.csproj.GenerateResource.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\obj\Debug\GestordeTareas.csproj.CoreCompileInputs.cache
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\obj\Debug\GestordeTareas.exe
+C:\Users\luisf\OneDrive\Documentos\2do Semestre 2025\Programacion Visual Practica\GestordeTareas\GestordeTareas\obj\Debug\GestordeTareas.pdb
